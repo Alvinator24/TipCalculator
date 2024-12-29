@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="initial_percentage_display">15%</string>
+    <string name="percentage_display">%1$d%%</string>
+</resources>
